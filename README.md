@@ -1,1 +1,2 @@
-# CalculadoraParaLeil-o
+# CalculadoraParaLeilao
+Este projeto foi desenvolvido para meu tio, que trabalha com leilões de carros, com o objetivo de simplificar e agilizar os cálculos necessários em seu trabalho. Utilizando a biblioteca Tkinter do Python, criei um programa no qual ele pode inserir o valor do carro e ter todos os cálculos realizados automaticamente. Os resultados são exibidos em uma interface simples e intuitiva, tornando o processo rápido e eficiente.
